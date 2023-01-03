@@ -1,0 +1,13 @@
+﻿  Snake.cpp
+C:\Users\Syahmi Zul\source\repos\Snake Game\Snake.cpp(26,23): warning C4154: deletion of an array expression; conversion to pointer supplied
+C:\Users\Syahmi Zul\source\repos\Snake Game\Snake.cpp(32,71): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Syahmi Zul\source\repos\Snake Game\Snake.cpp(32,48): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Snake Game.vcxproj -> C:\Users\Syahmi Zul\source\repos\Snake Game\x64\Debug\Snake Game.exe
